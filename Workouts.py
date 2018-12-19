@@ -72,7 +72,7 @@ class Br():
 
 b = Br()
 b.start()
-os.makedirs("/Users/ethan.pippin/Developer/Python/exercises")
+os.makedirs("./exercises")
 
 for group in muscleUrls:
     exercises = []
@@ -83,7 +83,7 @@ for group in muscleUrls:
         b.next_page()
 
     file_name = muscleUrls[b.page]
-    complete_name = os.path.join("/Users/ethan.pippin/Developer/Python/exercises", file_name + ".txt")
+    complete_name = os.path.join("./exercises", file_name + ".txt")
     file = open(complete_name, "w")
 
     exercises += b.process_page()
