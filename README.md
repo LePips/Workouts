@@ -2,7 +2,7 @@
 
 Extracts all of the exercises from Bodybuilding.com and creates an app to display them.
 
-## `workouts.py`
+### `workouts.py`
 
 With the process of webscraping, it will launch a Chrome browser to extract the workout information.
 Extracted information includes:
