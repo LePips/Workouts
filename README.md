@@ -36,5 +36,5 @@ Newline intended.
 The app uses the .txt files of each muscle group and parses the exercises into one, giant table view.
 
 Plans for the app:
-[ ] Workouts with exercises
-[ ] *Working* search functionality
+- [ ] Workouts with exercises
+- [ ] *Working* search functionality
