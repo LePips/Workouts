@@ -20,13 +20,13 @@ Steps are:
    the exercise into the .txt file.
 
 The exercise information is in the following format:
-`Incline Hammer Curls
+```Incline Hammer Curls
 Muscle Targeted: Biceps
 Equipment Type: Dumbbell
 https://www.bodybuilding.com/exercises/incline-hammer-curls
 https://www.bodybuilding.com/exercises/exerciseImages/sequences/882/Male/m/882_2.jpg
 https://www.bodybuilding.com/exercises/exerciseImages/sequences/882/Male/m/882_1.jpg
 
-`
+```
 
 Newline intended.
