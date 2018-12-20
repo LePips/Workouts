@@ -23,10 +23,18 @@ The exercise information is in the following format:
 ```Incline Hammer Curls
 Muscle Targeted: Biceps
 Equipment Type: Dumbbell
-https://www.bodybuilding.com/exercises/incline-hammer-curls
-https://www.bodybuilding.com/exercises/exerciseImages/sequences/882/Male/m/882_2.jpg
-https://www.bodybuilding.com/exercises/exerciseImages/sequences/882/Male/m/882_1.jpg
+https://www.bodybuilding.com/exercises/incline-hammer-curls // Link to exercise page
+https://www.bodybuilding.com/exercises/exerciseImages/sequences/882/Male/m/882_2.jpg // Exercise image
+https://www.bodybuilding.com/exercises/exerciseImages/sequences/882/Male/m/882_1.jpg // Exericise image
 
 ```
 
 Newline intended.
+
+### App
+
+The app uses the .txt files of each muscle group and parses the exercises into one, giant table view.
+
+Plans for the app:
+[ ] Workouts with exercises
+[ ] *Working* search functionality
