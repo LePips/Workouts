@@ -13,6 +13,7 @@ Extracted information includes:
 - [x] Link to the original exercise page
 - [ ] Description / Instructions
 
+To do
 - [ ] Change extracted information to JSON format for cleaner parsing by the app
 
 Steps are:
